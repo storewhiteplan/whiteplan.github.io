@@ -16,6 +16,10 @@
                 "t": "Customer Care"
         },
         {
+                "o": "Bảo Quản Sản Phẩm",
+                "t": "Customer Care"
+        },
+        {
                 "o": "Chính sách đổi trả",
                 "t": "Return Policy"
         },
