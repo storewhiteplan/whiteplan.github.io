@@ -1,7 +1,7 @@
 [
         {
                 "o": "Tạo nên “khoảng trắng” nơi các “nàng thơ” khao khát tìm lấy bầu trời riêng.",
-                "t": "Creating “WHITE SPACE” where the “Ladies” can find her own path"
+                "t": "Creating the space for the ladies to find her own path"
         },
         {
                 "o": "Hướng dẫn",
@@ -34,6 +34,55 @@
         {
                 "o": "Thêm vào giỏ hàng",
                 "t": "Add to Cart"
+        },
+        {
+                "o": "Dịch Vụ Khách Hàng",
+                "t": "Customer Services"
+        },
+        {
+                "o": "Theo Dõi WHITEPLAN",
+                "t": "More on WHITEPLANs"
+        },
+        {
+                "o": "Theo Dõi WHITEPLAN",
+                "t": "More on WHITEPLAN"
+        },
+        {
+                "o": "ĐĂNG KÝ NGAY",
+                "t": "SIGN UP NOW"
+        },
+        {
+                "o": "Liên Hệ",
+                "t": "Contacts"
+        },
+        {
+                "o": "Nhật Ký",
+                "t": "Diary"
+        },
+        {
+                "o": "Về WHITEPLAN",
+                "t": "About"
+        },
+        {
+                "o": "Celebrities trong WHITEPLAN",
+                "t": "Celebrities in WHITEPLAN"
+        },
+        {
+                "o": "Bộ Sưu Tập",
+                "t": "Collections"
+        },
+        {
+                "o": "Thông Tin Thêm",
+                "t": "Extra Information"
+        },
+        {
+                "o": "Thanh Toán Ngân Hàng Nội Địa",
+                "t": "Vietnamese Local Bank"
+        },
+        {
+                "o": "Thanh Toán Quốc Tế",
+                "t": "International Card"
         }
+        
 
 ]
