@@ -82,7 +82,45 @@
         {
                 "o": "Thanh Toán Quốc Tế",
                 "t": "International Card"
+        },
+        {
+                "o": "Ra đời vào năm 2020, WHITE PLAN được xây dựng bắt nguồn từ những giấc mơ với hai gam màu đơn sắc trắng – đen làm chủ đạo.",
+                "t": "Started in 2020, WHITE PLAN was built from dreams with two main monochrome colors, white and black."
+        },
+        {
+                "o": "WHITE PLAN chọn cho mình xuất phát điểm là phong cách thanh lịch, tối giản để làm bật lên sự nữ tính, tinh tế sẵn có bên trong các nàng thơ.",
+                "t": "WHITE PLAN chooses to start with an elegant, minimalist style to highlight the sophisticated femininity."
+        },
+        {
+                "o": "Phom dáng cổ điển Châu Âu những năm 30s – 50s là nền tảng chính để WHITE phát triển câu chuyện của mình.",
+                "t": "The classic European style of the 30s - 50s is the main foundation for WHITE to develop its story."
+        },
+        {
+                "o": "Các nàng thơ bước ra từ WHITE cũng vì thế mà luôn tự tin và tràn đầy năng lượng.",
+                "t": "The ladies in WHITE are confident and full of energy."
+        },
+        {
+                "o": "Đối với WHITE, nàng không chỉ là người bạn đồng hành mà còn là nguồn cảm hứng bất tận để viết nên những câu chuyện thời trang tinh khôi và đẹp đẽ.",
+                "t": "For WHITE, the lady is not only a companion but also an endless source of inspiration to write pure and beautiful fashion stories."
+        },
+        {
+                "o": "Không chạy theo dòng chảy thời trang bão hòa bởi những thiết kế đề cao tính công phu và chi tiết.",
+                "t": "WHITEPLAN overcomes the saturated fashion flow with elegant and sophisticated designs."
+        },
+        {
+                "o": "WHITE muốn gửi gắm và lan tỏa những câu chuyện cảm hứng tới mọi người",
+                "t": "WHITE wants to share inspirational stories to everyone"
+        },
+        {
+                "o": "Xem Sản Phẩm",
+                "t": "See Products"
+        },
+        {
+                "o": "Lựa chọn sắc trắng làm chủ đạo, các thiết kế của WHITE luôn khơi gợi được nét tinh khôi, nhẹ nhàng và thanh lịch nơi người mặc.",
+                "t": "Choosing white as the main color, WHITE's designs always evoke purity, lightness and elegance in the wearer."
+        },
+        {
+                "o": "Trong bức tranh rực rỡ màu sắc của cuộc sống, WHITE tin rằng mỗi người đều có thể tỏa sáng theo cách riêng và xứng đáng được trân trọng mỗi ngày!",
+                "t": "In the colorful picture of life, WHITE believes that everyone can shine in their own way and deserves to be cherished every day!"
         }
-        
-
 ]
