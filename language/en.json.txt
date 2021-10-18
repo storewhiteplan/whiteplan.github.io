@@ -1,0 +1,39 @@
+[
+        {
+                "o": "Tạo nên “khoảng trắng” nơi các “nàng thơ” khao khát tìm lấy bầu trời riêng.",
+                "t": "Creating “WHITE SPACE” where the “Ladies” can find her own path"
+        },
+        {
+                "o": "Hướng dẫn",
+                "t": "How to Buy"
+        },
+        {
+                "o": "Hướng dẫn mua hàng",
+                "t": "How to Buy"
+        },
+        {
+                "o": "Hướng dẫn bảo quản sản phẩm",
+                "t": "Customer Care"
+        },
+        {
+                "o": "Chính sách đổi trả",
+                "t": "Return Policy"
+        },
+        {
+                "o": "Chính sách vận chuyển",
+                "t": "Shipping Policy"
+        },
+        {
+                "o": "Phương thức thanh toán",
+                "t": "Payment Method"
+        },
+        {
+                "o": "Chính sách membership và VIP",
+                "t": "Membership and VIP Policy"
+        },
+        {
+                "o": "Thêm vào giỏ hàng",
+                "t": "Add to Cart"
+        }
+
+]
