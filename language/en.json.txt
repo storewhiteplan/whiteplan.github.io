@@ -48,7 +48,7 @@
                 "t": "More on WHITEPLAN"
         },
         {
-                "o": "ĐĂNG KÝ NGAY",
+                "o": "Đăng Ký Ngay",
                 "t": "SIGN UP NOW"
         },
         {
