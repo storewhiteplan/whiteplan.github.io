@@ -299,7 +299,7 @@ var CloudLocalization = (function () {
                             return [2, undefined];
                         else if (translations !== undefined)
                             return [2, translations];
-                        jsonPath = "https://uploads-ssl.webflow.com/6128bf8fb853583f50c03aaa/61441f64cd04995369942fdb_en.json.txt";
+                        jsonPath = "https://storewhiteplan.github.io/whiteplan.github.io/language/en.json.txt";
                         return [4, fetch(jsonPath)];
                     case 1:
                         fetchResponse = _a.sent();
