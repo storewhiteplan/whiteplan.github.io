@@ -128,11 +128,15 @@
                 "t": "In the colorful picture of life, WHITE believes that everyone can shine in their own way and deserves to be cherished every day!"
         },
         {
-                "o": "Nhấp vào Bộ Sản Phẩm để xem chi tiết",
-                "t": "Click on a Collection to see more"
+                "o": "Nhấp vào Bộ Sản Phẩm để xem chi tiết →",
+                "t": "Click on a Collection to see more →"
         },
         {
-                "o": "Chào mừng quý khách đến với WHITEPLAN!Để xem Bộ Sưu Tập mới nhất, hãy nhấp vào ảnh của BST",
-                "t": "Welcome to WHITEPLAN!To see the latest Collection, click on the photo"
+                "o": "Chào mừng quý khách đến với WHITEPLAN!
+
+Để xem Bộ Sưu Tập mới nhất, hãy nhấp vào ảnh của BST →",
+                "t": "Welcome to WHITEPLAN!
+
+To see the latest Collection, click on the photo →"
         }
 ]
