@@ -132,11 +132,11 @@
                 "t": "Click on a Collection to see more →"
         },
         {
-                "o": "Chào mừng quý khách đến với WHITEPLAN!
-
-Để xem Bộ Sưu Tập mới nhất, hãy nhấp vào ảnh của BST →",
-                "t": "Welcome to WHITEPLAN!
-
-To see the latest Collection, click on the photo →"
+                "o": "Chào mừng quý khách đến với WHITEPLAN!",
+                "t": "Welcome to WHITEPLAN!"
+        },
+        {
+                "o": "Để xem Bộ Sưu Tập mới nhất, hãy nhấp vào ảnh của BST",
+                "t": "To see the latest Collection, click on the photo"
         }
 ]
