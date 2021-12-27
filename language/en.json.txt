@@ -4,6 +4,10 @@
                 "t": "Creating the space for the ladies to find her own path"
         },
         {
+                "o": "Tất Cả Sản Phẩm",
+                "t": "All Products"
+        },
+        {
                 "o": "Hướng dẫn",
                 "t": "How to Buy"
         },
