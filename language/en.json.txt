@@ -142,5 +142,13 @@
         {
                 "o": "Để xem Bộ Sưu Tập mới nhất, hãy nhấp vào ảnh của BST",
                 "t": "To see the latest Collection, click on the photo"
+        },
+        {
+                "o": "Giảm giá 15% cho đơn hàng đầu tiên!",
+                "t": "15% Discount for first order"
+        },
+        {
+                "o": "Xem hướng dẫn",
+                "t": "Watch Instructions"
         }
 ]
